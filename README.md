@@ -88,6 +88,7 @@ Your journey will take you through the wildness of the American Midwest and acro
    }
    ```
    Explain this code with your best vocabulary.
+   //// This is a for loop that starts at 0 and counts up by 1 as long as forestNumber is less than area.forests. Once the condition is met it then executes the code in the brackets by pushing 'forest to the journey array.
    >
 5. Explain the value of the `database` variable in the **database** module. Be as comprehensive as possible.
    > The database varible is an Object with two keys cattleTypes and drovers. The values of those keys are two arrays with more Objects stored in them.
